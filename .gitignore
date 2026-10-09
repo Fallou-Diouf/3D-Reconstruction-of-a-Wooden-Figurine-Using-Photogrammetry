@@ -11,3 +11,6 @@ venv/
 *.tmp
 *.log
 *.files/
+
+# Original photogrammetry dataset (not included in GitHub)
+dataset/
